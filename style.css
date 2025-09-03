@@ -1,1 +1,40 @@
+body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background: #CADCFC;
+      color: #000000;
+    }
+    
+  header, section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    
+    h1, h2, h3 {
+      color: #000000;
+      text-align: center;
+    }
+    
+    
+
+
+hr {
+      border: 0;
+      height: 2px;
+      background: #ffffff;
+      margin: 20px 0;}
+      
+      .pic{
+      display: flex;
+      justify-content: center;
+          }
+          
+          footer {
+      text-align: center;
+      padding: 15px;
+      background: #f3d9d942;
+      
 
